@@ -1,0 +1,24 @@
+{
+  "name": "iovo-token",
+  "version": "1.0.0",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://lmajewski@bitbucket.org/sumitodevelopment/iovo-contract.git"
+  },
+  "homepage": "https://bitbucket.org/sumitodevelopment/iovo-contract#readme",
+  "description": "",
+  "dependencies": {
+    "zeppelin-solidity": "1.8.0",
+    "truffle-flattener": "1.2.5"
+  }
+}
